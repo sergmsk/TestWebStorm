@@ -1,2 +1,4 @@
 #Created by .ignore support plugin
 .idea
+node_modules
+public

@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/sergmsk/TestWebStorm/issues"
   },
-  "homepage": "https://github.com/sergmsk/TestWebStorm#readme"
+  "homepage": "https://github.com/sergmsk/TestWebStorm#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "webpack": "^3.6.0"
+  },
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
 }
